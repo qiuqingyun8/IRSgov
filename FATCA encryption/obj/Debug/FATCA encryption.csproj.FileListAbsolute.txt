@@ -3,6 +3,5 @@ C:\Users\Qing\Desktop\project\IRSgov\FATCA encryption\bin\Debug\FATCA encryption
 C:\Users\Qing\Desktop\project\IRSgov\FATCA encryption\bin\Debug\WinSCPnet.dll
 C:\Users\Qing\Desktop\project\IRSgov\FATCA encryption\obj\Debug\FATCA encryption.csproj.CopyComplete
 C:\Users\Qing\Desktop\project\IRSgov\FATCA encryption\obj\Debug\FATCA encryption.pdb
-C:\Users\Qing\Desktop\project\IRSgov\FATCA encryption\obj\Debug\FATCA encryption.csprojAssemblyReference.cache
 C:\Users\Qing\Desktop\project\IRSgov\FATCA encryption\bin\Debug\FATCA encryption.exe
 C:\Users\Qing\Desktop\project\IRSgov\FATCA encryption\obj\Debug\FATCA encryption.exe
